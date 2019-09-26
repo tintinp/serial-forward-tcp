@@ -19,5 +19,8 @@
   "dependencies": {
     "serialport": "^7.1.5",
     "yargs": "^14.0.0"
+  },
+  "bin": {
+    "serial-forward-tcp": "./bin/serial-forward-tcp.js"
   }
 }
