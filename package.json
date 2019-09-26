@@ -1,0 +1,23 @@
+{
+  "name": "serial-forward-tcp",
+  "version": "1.0.0",
+  "description": "Forward serial port to TCP server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tintinp/serial-forward-tcp.git"
+  },
+  "author": "Tin-tin Patana-anake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tintinp/serial-forward-tcp/issues"
+  },
+  "homepage": "https://github.com/tintinp/serial-forward-tcp#readme",
+  "dependencies": {
+    "serialport": "^7.1.5",
+    "yargs": "^14.0.0"
+  }
+}
